@@ -153,3 +153,55 @@ main section{
   text-align: center;
   margin-top: 20px;
 }
+
+/* footer start here */
+.footer-container{
+  background: #FFF8F3;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-info{
+  padding: 100px;
+}
+.f-title{
+  margin-bottom: 10px;
+}
+
+.icons{
+  margin-top: 10px;
+  color: #fd6e0a;
+  font-size: 25px;
+}
+.footer-from{
+  padding: 100px;
+}
+.name{
+  padding: 15px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.email{
+  padding: 15px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.message{
+  padding: 30px 20px; 
+  margin-bottom: 10px;
+}
+.f-t{
+  margin-bottom: 10px;
+}
+
+.btn{
+  background-color: #fd6e0a;
+  color: #FFF8F3;
+  padding: 10px 20px;
+  border: 0;
+  font-size: 15px;
+}
+.btn:hover{
+  background-color: aquamarine;
+  color: #474747;
+}
