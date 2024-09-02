@@ -124,5 +124,32 @@ main section{
 }
 /* resumi section style */
 .resumi-coloum-title{
-  
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+}
+.resumi-container{
+  display: flex;
+  margin-top: 50px;
+  gap: 50px;
+}
+.resumi-item-title{
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.resumi-title-institute{
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.resumi-titele-desc , .resumi-title-institute{
+   color: #757575;
+}
+.resumi-container hr{
+  margin: 30px;
+}
+.cv{
+  text-align: center;
+  margin-top: 20px;
 }
